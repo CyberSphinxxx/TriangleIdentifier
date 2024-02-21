@@ -21,7 +21,7 @@ After receiving the side lengths, the program identifies the type of triangle ba
 ---------------------------------------------------
 **Result Display:**
 
-The program displays the type of triangle based on the input lengths of the sides.
+The program will tell you the type of triangle based on the input lengths of the sides.
 
 ---------------------------------------------------
 **Usage:**
